@@ -1,7 +1,7 @@
 [package]
 name = "ccunits-rust"
 repository = "https://github.com/dractw/ccunits-rust"
-version = "1.0.1"
+version = "1.0.2"
 
 [lib]
 crate-type=["cdylib", "rlib"]
