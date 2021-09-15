@@ -1,5 +1,5 @@
 # ccunits-rust
-Rust implementation of ccunits, wasm-ready
+Rust implementation of [ccunits](https://github.com/dractw/ccunits), wasm-ready
 
 # Requirements
 - wasm-pack
