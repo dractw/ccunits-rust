@@ -5,6 +5,6 @@ Rust implementation of ccunits, wasm-ready
 - wasm-pack
 
 # build 
-Web: `wasm-pack build --target web` 
-Bundler: `wasm-pack build --target bundler`
-Node: `wasm-pack build --target node`
+- Web: `wasm-pack build --target web`
+- Bundler: `wasm-pack build --target bundler`
+- Node: `wasm-pack build --target node`
